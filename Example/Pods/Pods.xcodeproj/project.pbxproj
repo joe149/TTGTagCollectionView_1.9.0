@@ -52,13 +52,13 @@
 		0C24B1824C3CF57779BF412D8FF23C26 /* SVPullToRefresh.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SVPullToRefresh.xcconfig; sourceTree = "<group>"; };
 		0EE9ADC1A8330E2EE282DD2DA4A15250 /* TTGTagCollectionView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTGTagCollectionView.m; sourceTree = "<group>"; };
 		1658ED89AB9C6CEB557ED5CDFF001592 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1FBD4A68FDC96E4B1D46D2B8D63E6E1C /* Pods_TTGTagCollectionView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTGTagCollectionView_Example.framework; path = "Pods-TTGTagCollectionView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FBD4A68FDC96E4B1D46D2B8D63E6E1C /* Pods_TTGTagCollectionView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTGTagCollectionView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		24ADBE64E230E62914F960D74320C4DC /* UIScrollView+SVInfiniteScrolling.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+SVInfiniteScrolling.m"; path = "SVPullToRefresh/UIScrollView+SVInfiniteScrolling.m"; sourceTree = "<group>"; };
 		264987916F920268DBD891EE6A48DC15 /* Pods-TTGTagCollectionView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTGTagCollectionView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		266E36A0485390CDD00D7D6416DE7944 /* TTGTagCollectionView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TTGTagCollectionView.framework; path = TTGTagCollectionView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		266E36A0485390CDD00D7D6416DE7944 /* TTGTagCollectionView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTGTagCollectionView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		29CDBEF4E9AE8FD6F3B266C3CBAB0FA1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		34D263543C3F91673665F49F9A91AFC0 /* Pods-TTGTagCollectionView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TTGTagCollectionView_Example.modulemap"; sourceTree = "<group>"; };
-		3FE4CEA6B9432B7CEBB13DB68C66C465 /* TTGTagCollectionView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = TTGTagCollectionView.modulemap; sourceTree = "<group>"; };
+		34D263543C3F91673665F49F9A91AFC0 /* Pods-TTGTagCollectionView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTGTagCollectionView_Example.modulemap"; sourceTree = "<group>"; };
+		3FE4CEA6B9432B7CEBB13DB68C66C465 /* TTGTagCollectionView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = TTGTagCollectionView.modulemap; sourceTree = "<group>"; };
 		48246034374A451D065871E91FCEB452 /* TTGTagCollectionView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTGTagCollectionView.h; sourceTree = "<group>"; };
 		482C19CB08972A8708DF919ECB0F2DA0 /* SVPullToRefresh-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SVPullToRefresh-prefix.pch"; sourceTree = "<group>"; };
 		533F3AC57A7A6803BB4176721C10D924 /* TTGTagCollectionView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TTGTagCollectionView.xcconfig; sourceTree = "<group>"; };
@@ -67,21 +67,21 @@
 		5A3E5516FB923F6FEFAA945F2B42FA79 /* Pods-TTGTagCollectionView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTGTagCollectionView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		66B1D655BFF97A2F7401C211C0EB8535 /* Pods-TTGTagCollectionView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTGTagCollectionView_Tests-resources.sh"; sourceTree = "<group>"; };
 		75ED9A8A0FAB18F8B70FA89C7F44ED4B /* Pods-TTGTagCollectionView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTGTagCollectionView_Example-resources.sh"; sourceTree = "<group>"; };
-		785373C0356D9588613E46153892DA27 /* Pods_TTGTagCollectionView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTGTagCollectionView_Tests.framework; path = "Pods-TTGTagCollectionView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		785373C0356D9588613E46153892DA27 /* Pods_TTGTagCollectionView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTGTagCollectionView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80E96F3E49A6526351D2FC6C34954605 /* UIScrollView+SVPullToRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+SVPullToRefresh.h"; path = "SVPullToRefresh/UIScrollView+SVPullToRefresh.h"; sourceTree = "<group>"; };
 		86BAEBF17ACA4A47394ED9C3BFA17CAC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9858952B77350ABA409F65FB3ADECFAE /* TTGTagCollectionView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTGTagCollectionView-umbrella.h"; sourceTree = "<group>"; };
 		9CB84571F559049D2069FA042055CEE3 /* TTGTextTagCollectionView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTGTextTagCollectionView.h; sourceTree = "<group>"; };
 		A44F5BF206B5A710B033FD9F70FFD0C9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A81630016C1C7150FF768BC57FF259C0 /* Pods-TTGTagCollectionView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTGTagCollectionView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		ABC05BF655997BEFC3D82C41756DC1D0 /* SVPullToRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SVPullToRefresh.framework; path = SVPullToRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ABC05BF655997BEFC3D82C41756DC1D0 /* SVPullToRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SVPullToRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACB5DBCE7DEB19903594D5D0C47ADB12 /* SVPullToRefresh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SVPullToRefresh-dummy.m"; sourceTree = "<group>"; };
 		B0DE0D536EA20BAF12BE7DABB9A1C93D /* TTGTagCollectionView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTGTagCollectionView-prefix.pch"; sourceTree = "<group>"; };
 		B39911BB420820A00E48BB55A026AD22 /* UIScrollView+SVPullToRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+SVPullToRefresh.m"; path = "SVPullToRefresh/UIScrollView+SVPullToRefresh.m"; sourceTree = "<group>"; };
 		B4BD0C364C30D2C959E7B465BBF841A1 /* Pods-TTGTagCollectionView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTGTagCollectionView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B7DFDF38154235E0E4B8CE0859E8F23E /* Pods-TTGTagCollectionView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTGTagCollectionView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		CFCFE6C3BD4ABD63BD44315F13EF4CD8 /* Pods-TTGTagCollectionView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TTGTagCollectionView_Tests.modulemap"; sourceTree = "<group>"; };
+		CFCFE6C3BD4ABD63BD44315F13EF4CD8 /* Pods-TTGTagCollectionView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTGTagCollectionView_Tests.modulemap"; sourceTree = "<group>"; };
 		D2DAD505D715924BD8EEDBFF12189823 /* Pods-TTGTagCollectionView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTGTagCollectionView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D3C6A57D858EF8C5226B7D8D0B851796 /* SVPullToRefresh-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SVPullToRefresh-umbrella.h"; sourceTree = "<group>"; };
 		D767762EEC213A46BAC7DE405C2AE06F /* Pods-TTGTagCollectionView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTGTagCollectionView_Tests-frameworks.sh"; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		E004693281D5068D8EAD57796E986464 /* UIScrollView+SVInfiniteScrolling.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+SVInfiniteScrolling.h"; path = "SVPullToRefresh/UIScrollView+SVInfiniteScrolling.h"; sourceTree = "<group>"; };
 		E0BF6B8E5B54E8A6C9308DCD26187114 /* Pods-TTGTagCollectionView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTGTagCollectionView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E23098F33E7CA69BDAD45FF415672C83 /* Pods-TTGTagCollectionView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTGTagCollectionView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		EAC1331B0B4ADFE85360AB1B137C8644 /* SVPullToRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SVPullToRefresh.modulemap; sourceTree = "<group>"; };
+		EAC1331B0B4ADFE85360AB1B137C8644 /* SVPullToRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SVPullToRefresh.modulemap; sourceTree = "<group>"; };
 		F033C4BFF10F8FA0FF110772DF4045EC /* TTGTagCollectionView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TTGTagCollectionView-dummy.m"; sourceTree = "<group>"; };
 		F56290F61FDDE664DB7945FE8D21A2B7 /* Pods-TTGTagCollectionView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTGTagCollectionView_Example-umbrella.h"; sourceTree = "<group>"; };
 		F7660ECE56F3E9AB32400FCA502D6E72 /* SVPullToRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SVPullToRefresh.h; path = SVPullToRefresh/SVPullToRefresh.h; sourceTree = "<group>"; };
@@ -188,7 +188,6 @@
 				B39911BB420820A00E48BB55A026AD22 /* UIScrollView+SVPullToRefresh.m */,
 				C14DB43F1CE596E8A3A635CF811CF58F /* Support Files */,
 			);
-			name = SVPullToRefresh;
 			path = SVPullToRefresh;
 			sourceTree = "<group>";
 		};
@@ -272,7 +271,6 @@
 			children = (
 				BD5FD93429D3EB9493BDBA66242E9196 /* Classes */,
 			);
-			name = TTGTagCollectionView;
 			path = TTGTagCollectionView;
 			sourceTree = "<group>";
 		};
@@ -284,7 +282,6 @@
 				9CB84571F559049D2069FA042055CEE3 /* TTGTextTagCollectionView.h */,
 				FBC1934442C6EB56EEC44578AE614DB4 /* TTGTextTagCollectionView.m */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -437,6 +434,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -678,7 +676,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/TTGTagCollectionView/TTGTagCollectionView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/TTGTagCollectionView/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/TTGTagCollectionView/TTGTagCollectionView.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -778,7 +776,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/TTGTagCollectionView/TTGTagCollectionView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/TTGTagCollectionView/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/TTGTagCollectionView/TTGTagCollectionView.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
